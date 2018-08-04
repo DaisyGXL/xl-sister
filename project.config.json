@@ -1,0 +1,15 @@
+{
+	"description": "my project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxad95bcac1e678f61",
+	"projectname": "xl-sister",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
